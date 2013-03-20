@@ -1,3 +1,13 @@
 body > .container {
 	margin-top: 50px;
 }
+
+td.message-id {
+    color: indianred;
+}
+
+td.message-id.translated {
+    color: seagreen;
+}
+
+
